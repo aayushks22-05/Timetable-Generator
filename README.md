@@ -70,7 +70,7 @@ None. The app uses no external libraries or frameworks. The only external resour
 
 ## Live App
 
-https://abhinashkr45.github.io/Timetable-Generator/
+https://aayushks22-05.github.io/Timetable-Generator/
 
 ## Notes
 
