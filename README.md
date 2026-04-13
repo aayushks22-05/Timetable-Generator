@@ -33,7 +33,7 @@ You do not need to install anything to run this app.
 1. Clone the repository:
 
 ```
-git clone https://github.com/AbhinashKr45/Timetable-Generator
+git clone https://github.com/aayushks22-05/Timetable-Generator
 ```
 
 2. Navigate into the project folder:
@@ -70,7 +70,7 @@ None. The app uses no external libraries or frameworks. The only external resour
 
 ## Live App
 
-https://abhinashkr45.github.io/Timetable-Generator/
+https://aayushks22-05.github.io/Timetable-Generator/
 
 ## Notes
 
