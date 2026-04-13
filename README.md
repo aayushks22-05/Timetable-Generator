@@ -33,7 +33,7 @@ You do not need to install anything to run this app.
 1. Clone the repository:
 
 ```
-git clone https://github.com/AbhinashKr45/Timetable-Generator
+git clone https://github.com/aayushks22-05/Timetable-Generator
 ```
 
 2. Navigate into the project folder:
